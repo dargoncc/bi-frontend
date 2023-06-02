@@ -118,3 +118,4 @@ export namespace API {
     currentAuthority: string;
   };
 }
+export * from '@ant-design/pro-components';
